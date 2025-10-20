@@ -1,6 +1,8 @@
-﻿pandas
-numpy
-matplotlib
-seaborn
-plotly
-sklearn
+﻿Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly
+Scikit-learn
+Statsmodels
